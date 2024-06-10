@@ -3,7 +3,7 @@
       src="https://raw.githubusercontent.com/mondejarmarron18/mondejarmarron18/main/github-banner.jpg"
       alt="banner"
       width="100%"
-    />
+    /> 
     <h3>
       With 3+ years of experience, I excel in crafting captivating user
       interfaces and seamless experiences. I leverage forging technologies to
