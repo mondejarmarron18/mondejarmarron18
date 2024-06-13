@@ -5,7 +5,7 @@
       width="100%"
     /> 
     <h3>
-      With 3+ years of experience, I excel in crafting captivating user
+      With years of experience, I excel in crafting captivating user
       interfaces and seamless experiences. I leverage forging technologies to
       build dynamic web apps, blending front-end finesse with back-end
       proficiency for exceptional results.
