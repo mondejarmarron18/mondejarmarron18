@@ -13,7 +13,7 @@
 
 <div style="display: flex; flex-direction: column; gap: 0.5rem">
       <div>
-        👨‍💻 All of my projects are available at [iforgetech.com](iforgetech.com)
+        👨‍💻 All of my projects are available at [iforgetech.com]
       </div>
       <div>📫 How to reach me **dev@iforgetech.com**</div>
     </div>
