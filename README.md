@@ -12,7 +12,7 @@
     </h3>
 
 <div style="display: flex; flex-direction: column; gap: 0.5rem">
-    <div>My github in my previous employer: github.com/lwsmarvin</div>
+    <b>My github in my previous employer:</b> github.com/lwsmarvin</div>
     <br/>
       <div>
         👨‍💻 All of my projects are available at [iforgetech.com]
