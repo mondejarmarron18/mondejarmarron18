@@ -22,6 +22,18 @@
     <br />
     <h3 align="left">Languages and Tools:</h3>
     <p>
+        <a
+        href="http://go.dev/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"
+          alt="go"
+          width="40"
+          height="40"
+        />
+      </a>&nbsp;
       <a
         href="https://aws.amazon.com/amplify/"
         target="_blank"
@@ -60,9 +72,9 @@
       </a>&nbsp;
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+          src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
           alt="express"
-          width="40"
+          width="80"
           height="40"
         />
       </a>&nbsp;
@@ -136,7 +148,7 @@
       </a>&nbsp;
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img
-          src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+          src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"
           alt="nextjs"
           width="40"
           height="40"
