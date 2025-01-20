@@ -12,10 +12,10 @@
     </h3>
 
 <div style="display: flex; flex-direction: column; gap: 0.5rem">
-    <b>My github in my previous employer:</b> [github.com/lwsmarvin](https://github.com/lwsmarvin)</div>
+    <b>My github in my previous employer:</b> <a href="https://github.com/lwsmarvin?tab=overview&from=2023-12-01&to=2023-12-31">github.com/lwsmarvin</a></div>
     <br/>
       <div>
-        👨‍💻 All of my projects are available at [iforgetech.com](https://iforgetech.com)
+        👨‍💻 All of my projects are available at <a href="https://iforgetech.com"> iforgetech.com</a>
       </div>
       <div>📫 How to reach me **dev@iforgetech.com**</div>
     </div>
